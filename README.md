@@ -134,8 +134,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) - Python's standard GUI package
 - [Pillow](https://pillow.readthedocs.io/) - Python Imaging Library
 
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
 Project Link: [https://github.com/yourusername/slide-chooser](https://github.com/yourusername/slide-chooser)
