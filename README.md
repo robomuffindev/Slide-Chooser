@@ -2,7 +2,8 @@
 
 A Python-based application that helps you compare and select the best images across multiple batches of similar prompts.
 
-![Slide Chooser Screenshot](placeholder-screenshot.png)
+![SlideChooserAppImg](https://github.com/user-attachments/assets/e79d3208-0b98-4bb1-987b-39bd75022573)
+
 
 ## Overview
 
